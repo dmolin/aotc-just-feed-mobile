@@ -1,0 +1,5 @@
+platforms/*
+plugins/*
+node_modules
+www/js/bundle.js
+www/js/templates.js
