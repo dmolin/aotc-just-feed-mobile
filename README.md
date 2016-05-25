@@ -20,7 +20,7 @@ postcode form to the restaurant search page.
 ### Screenshots ###
 
 Postcode lookup screen.
-![ScreenShot](/README/je-postcode.png?raw=true)
+![ScreenShot](/README/jf-postcode.png?raw=true)
 
 ### Installation ###
 

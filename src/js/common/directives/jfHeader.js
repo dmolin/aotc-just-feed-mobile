@@ -5,7 +5,7 @@ angular.module('jf.common')
   template: `
     <div class="jf-header">
       <div class="jf-header-logo-wrapper">
-        <a href="/"><img class="logo-image" src="/img/je-logo.png" /></a>
+        <a href="/"><img class="logo-image" src="/img/just-feed.png"/></a> 
       </div>
     </div>
   `,
